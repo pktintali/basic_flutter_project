@@ -1,6 +1,6 @@
 # i_am_poor
 
-A new Flutter application.
+A simple and Basic Flutter application.
 
 ## Getting Started
 
